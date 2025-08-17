@@ -1,0 +1,8 @@
+﻿# Ignore Visual Studio temporary files, build results, and other files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
